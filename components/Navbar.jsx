@@ -132,3 +132,6 @@ const handleNav = () => {
 }
 
 export default Navbar;
+
+
+// completed first section 23.05
